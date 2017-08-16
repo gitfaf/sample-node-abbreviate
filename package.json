@@ -4,7 +4,7 @@
   },
   "name": "sample-node-abbreviate",
   "description": "Look at use-abbreviate.js file.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "use-abbreviate-v2.js",
   "devDependencies": {},
   "scripts": {

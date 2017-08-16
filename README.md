@@ -1,6 +1,6 @@
 # Sample for [node-abbreviate](https://github.com/gitfaf/node-abbreviate)
 
-Look at use-abbreviate.js file.
+Look at use-abbreviate-v[1|2].js file.
 
 ```
     npm install node-abbreviate@v2 # for Version 2
