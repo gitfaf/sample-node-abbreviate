@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-abbreviate": "^1.0.4"
+  }
+}
