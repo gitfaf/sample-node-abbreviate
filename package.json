@@ -1,5 +1,32 @@
 {
   "dependencies": {
     "node-abbreviate": "^1.0.4"
-  }
+  },
+  "name": "sample-node-abbreviate",
+  "description": "Look at use-abbreviate.js file.",
+  "version": "1.0.0",
+  "main": "use-abbreviate-v2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/sample-node-abbreviate.git"
+  },
+  "keywords": [
+    "node-abbreviate",
+    "node",
+    "abbreviate",
+    "sample",
+    "sample",
+    "for",
+    "abbreviation"
+  ],
+  "author": "Git Faf <git.faf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/sample-node-abbreviate/issues"
+  },
+  "homepage": "https://github.com/gitfaf/sample-node-abbreviate#readme"
 }
